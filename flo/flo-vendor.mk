@@ -75,6 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/flo/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/asus/flo/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
     vendor/asus/flo/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
+    vendor/asus/flo/proprietary/lib/libfrsdk.so:system/vendor/lib/libfrsdk.so \
     vendor/asus/flo/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/asus/flo/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/asus/flo/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
